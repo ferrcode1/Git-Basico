@@ -68,3 +68,7 @@ print("New Hello git!")  # New Hello git!")
     git reflog
 """
 
+"""
+    COMANDO PARA CREAR TAGS
+    git tag -a "tag name" -m "tag message"
+"""
