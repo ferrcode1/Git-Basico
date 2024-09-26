@@ -72,3 +72,19 @@ print("New Hello git!")  # New Hello git!")
     COMANDO PARA CREAR TAGS
     git tag -a "tag name" -m "tag message"
 """
+
+""" 
+    COMANDO PARA CREAR UNA RAMA DE TRABAJO
+    git branch "nombre de la rama"
+"""
+
+""" 
+    COMANDO PARA VER LAS RAMAS DE TRABAJO
+    git branch
+"""
+
+""" 
+    COMANDO PARA MOVERSE DE RAMA DE TRABAJO
+    git switch "nombre de la rama" 
+"""
+
