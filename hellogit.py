@@ -29,6 +29,11 @@ print("New Hello git!")  # New Hello git!")
     git commit -m "commit message"
 """
 
+"""  
+    COMANDO PARA DESHACER UN COMMIT Y CONSERVAR LOS CAMBIOS EN EL AREA DE STAGING
+    git reset --soft HEAD~1
+"""
+
 """ 
     COMANDO PARA VER LOS COMMIT
     git log
