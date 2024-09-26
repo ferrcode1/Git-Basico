@@ -106,3 +106,13 @@ print("New Hello git!")  # New Hello git!")
     COMANDO PARA GUARDAR ALGO DE MANETA TEMPORAL
     git stash save "message"
 """
+
+""" 
+    COMANDO PARA LISTAR LOS STASH
+    git stash list
+"""
+
+""" 
+    COMANDO PARA ACCEDER AL STASH CREADO
+    git stash pop
+"""
