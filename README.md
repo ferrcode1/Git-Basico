@@ -105,7 +105,7 @@ A continuación se muestran algunos de los comandos más útiles para trabajar c
 
 ### Explicación:
 
-1. *Iconos e Imágenes*: Utilicé [Shields.io](https://shields.io/) para agregar iconos como el de Git y botones de copiar con un estilo moderno.
+1. *Iconos e Imágenes*: Utilicé [Shields.io](https://shields.io/) para agregar iconos como el de Git.
 4. *Organización*: Los comandos están agrupados por categorías, con descripciones breves.
 
 
