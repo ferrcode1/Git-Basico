@@ -2,8 +2,8 @@
 
 A continuación se muestran algunos de los comandos más útiles para trabajar con Git, organizados por categorías.
 ```
-### 📁 Comandos para configurar el entorno de trabajo
-```bash
+# 📁 Comandos para configurar el entorno de trabajo
+
  git config --global user.name "Tu Nombre"
  git config --global user.email "tuemail@dominio.com"
 
@@ -102,11 +102,6 @@ A continuación se muestran algunos de los comandos más útiles para trabajar c
 # Traer cambios y hacer rebase para mantener un historial limpio
  git pull --rebase origin main
 
-
-### Explicación:
-
-1. *Iconos e Imágenes*: Utilicé [Shields.io](https://shields.io/) para agregar iconos como el de Git.
-4. *Organización*: Los comandos están agrupados por categorías, con descripciones breves.
 
 
 Hecho con ♥ por Fernando Uribe - ferrcode
