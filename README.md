@@ -1,9 +1,9 @@
 # ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Comandos Básicos de Git
 
 A continuación se muestran algunos de los comandos más útiles para trabajar con Git, organizados por categorías.
-
+```
 ### 📁 Comandos para configurar el entorno de trabajo
-
+```bash
 - git config --global user.name "Tu Nombre"
 - git config --global user.email "tuemail@dominio.com"
 
