@@ -2,12 +2,10 @@
 
 A continuación se muestran algunos de los comandos más útiles para trabajar con Git, organizados por categorías.
 
----
-
 ### 📁 Comandos para configurar el entorno de trabajo
-```bash
-git config --global user.name "Tu Nombre"
-git config --global user.email "tuemail@dominio.com"
+
+- git config --global user.name "Tu Nombre"
+- git config --global user.email "tuemail@dominio.com"
 
 ### 🏁 Comandos para empezar con un repositorio
 - git init
